@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="adf2cc2b-6570-4296-aecc-7d28a9dd8916" name="Default Changelist" comment="" />
+    <list default="true" id="adf2cc2b-6570-4296-aecc-7d28a9dd8916" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContactRest/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ContactRest/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContactRest/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ContactRest/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_rest_api/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_rest_api/migrations/0002_contact.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_rest_api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/contact_rest_api/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_rest_api/permissions.py" beforeDir="false" afterPath="$PROJECT_DIR$/contact_rest_api/permissions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_rest_api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/contact_rest_api/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_rest_api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/contact_rest_api/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/contrib/admin/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/contrib/admin/migrations/0002_logentry_remove_auto_add.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/contrib/auth/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/contrib/auth/migrations/0002_alter_permission_name_max_length.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/contrib/auth/migrations/0003_alter_user_email_max_length.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/contrib/auth/migrations/0004_alter_user_username_opts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/contrib/auth/migrations/0005_alter_user_last_login_null.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/contrib/auth/migrations/0006_require_contenttypes_0002.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/contrib/auth/migrations/0007_alter_validators_add_error_messages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/contrib/auth/migrations/0008_alter_user_username_max_length.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/contrib/contenttypes/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/contrib/contenttypes/migrations/0002_remove_content_type_name.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/contrib/flatpages/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/contrib/redirects/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/contrib/sessions/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/contrib/sites/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/contrib/sites/migrations/0002_alter_domain_unique.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/db/migrations/autodetector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/db/migrations/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/db/migrations/executor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/db/migrations/graph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/db/migrations/loader.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/db/migrations/migration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/db/migrations/operations/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/db/migrations/operations/fields.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/db/migrations/operations/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/db/migrations/operations/special.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/db/migrations/operations/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/db/migrations/optimizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/db/migrations/questioner.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/db/migrations/recorder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/db/migrations/serializer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/db/migrations/state.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/db/migrations/topological_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/db/migrations/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/django/db/migrations/writer.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +65,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Xr7vLiOqctxz6fKx96Tnd7dVQW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,7 +77,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/contact_rest_api/migrations" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -35,6 +89,11 @@
         <option name="myModuleName" value="ContactRest" />
       </console-settings>
     </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/contact_rest_api/migrations" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="ContactRest" type="Python.DjangoServer" factoryName="Django server">
@@ -72,7 +131,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581792588324</updated>
-      <workItem from="1581792598908" duration="2540000" />
+      <workItem from="1581792598908" duration="5277000" />
     </task>
     <servers />
   </component>
@@ -80,6 +139,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="728" y="1382" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581797300678">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="728" y="1382" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.1080.1920.1080/70.0.1850.1080@0.1080.1920.1080" timestamp="1581797300678" />
     <state width="1804" height="275" key="GridCell.Tab.0.bottom" timestamp="1581792924357">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>

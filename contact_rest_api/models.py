@@ -2,6 +2,7 @@ from django.db import models
 from django.contrib.auth.models import AbstractBaseUser
 from django.contrib.auth.models import PermissionsMixin
 from django.contrib.auth.models import BaseUserManager
+from django.conf import settings
 
 class UserProfileManager(BaseUserManager):
    """Manager for user profiles"""
@@ -40,6 +41,10 @@ class UserProfile(AbstractBaseUser, PermissionsMixin):
 
 class Contact(models.Model):
 
+    user_contact = models.ForeignKey(
+        settings.AUTH_USER_MODEL,
+        on_delete=models.CASCADE
+    )
     name = models.CharField(max_length=60)
     phone = models.CharField(max_length=20)
     address = models.CharField(max_length=255)
